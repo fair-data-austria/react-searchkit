@@ -10,3 +10,5 @@ export * from './api';
 export * from './components';
 export * from './store';
 export * from './events';
+// import i18n (needs to be bundled ;)) 
+import './i18n';
